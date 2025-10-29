@@ -373,24 +373,9 @@ The application is optimized for Vercel with automatic ISR support.
 - **React 19** - UI library
 - **Node.js** - Runtime environment
 
-## Future Enhancements
-
-- [ ] Database integration (MongoDB/PostgreSQL)
-- [ ] User authentication (NextAuth.js)
-- [ ] Image uploads for products
-- [ ] Shopping cart functionality
-- [ ] Order management system
-- [ ] Unit and integration tests
-- [ ] Advanced search with filters
-- [ ] Product reviews and ratings
-
-## License
-
-MIT License - feel free to use this project for learning and development.
-
 ## Contact
 
-For questions or feedback, please reach out to the project author.
+For questions or feedback, please reach out to amanydv770@gmail.com.
 
 ---
 
