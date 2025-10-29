@@ -1,8 +1,7 @@
 # CartCraft - Next.js E-Commerce Catalog with Multiple Rendering Strategies
 
 **Author:** Aman Yadav  
-**Date:** October 27, 2024 (Updated: October 28, 2024)
-
+**Date:** October 29, 2025
 ## Project Overview
 
 **CartCraft** is a comprehensive Next.js e-commerce catalog application that demonstrates the four main rendering strategies in Next.js:
